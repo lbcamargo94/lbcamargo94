@@ -90,7 +90,7 @@
 <div align="center">
   <h3 align="center">Recently listening</h3><br>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=luks_bc&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=luks_bc&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=luks_bc&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" width="200" height="250"/>
 </div>
    
   ##
