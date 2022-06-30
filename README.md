@@ -7,7 +7,7 @@
   
   🔭 I’m currently working on [Rick and Morty Wiki](https://github.com/lbcamargo94/rick-and-morty-wiki)
 
-  🌱 I’m currently learning **Backend, SQL, NodeJS...**
+  🌱 I’m currently learning **MongoDB, Node.js, Typescript, React.js...**
 
   💬 Ask me about **Java Script Technologies**
 
