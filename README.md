@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Rick and Morty Wiki</p>
+<p align="left">🔭 I’m currently working on
+  <a href="https://github.com/lbcamargo94/rick-and-morty-wiki" target="_blank">Rick and Morty Wiki</a>
+</p>
 
 ###
 
