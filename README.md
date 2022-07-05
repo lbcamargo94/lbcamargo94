@@ -20,7 +20,6 @@
   <h3 align="center">Github Stats</h3><br>
   <a href="https://github.com/lbcamargo94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbcamargo94&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbcamargo94&layout=default&langs_count=7&theme=ocean_dark"/>
 </div>
   
   ##
