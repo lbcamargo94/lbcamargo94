@@ -4,7 +4,9 @@
 
 
 - 🛠️ I'm a **Full Stack Developer**
-- 🔭 I’m currently working on **[Seu Projeto Atual](https://github.com/seu-usuario/seu-projeto)**
+- 🔭 I’m currently working on **[WorkBuddy
+A productivity assistant](https://github.com/lbcamargo94/work-buddy)**work-buddy
+A productivity assistant
 - 🌱 I’m currently learning **Advanced concepts in Node.js, Docker, RabbitMQ, Kubernetes, Java and Microservices**
 - 💬 Ask me about **Python, AI, Node.js, React.js, Vue.js and Backend or Frontend Development**
 - 🧑‍💻 Why I chose to be a programmer? **I decided to pursue a career in programming because I have always been fascinated by transforming ideas into real solutions. Programming challenges me to constantly learn and gives me the opportunity to positively impact people. My main goal is to solve complex problems and create solutions that help society in an ethical and responsible way.**
